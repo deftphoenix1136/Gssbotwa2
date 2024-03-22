@@ -22,11 +22,11 @@ global.APIs = {
 
 // Other
 global.apikey = 'bf2d2cf29b3edc604b447983';
-global.ownername = '𝑆𝛪𝐷 𝐵𝛨𝛥𝛪';
-global.owner = ['917050906659'];
-global.premium = ['917050906659'];
-global.packname = '𝚜𝚝𝚒𝚌𝚔𝚎𝚛 𝚋𝚢';
-global.author = '𝐆𝐒𝐒 𝚩𝚯𝚻𝐖𝚫';
+global.ownername = '🤍⃞𝄟ꪶʀᴏʟᴇx💃   ͢𝐒ᴇ͓ꪳʀ͎𖦻⃞🍓';
+global.owner = ['918590786742'];
+global.premium = ['918590786742'];
+global.packname = '𝞒𝞗𝙇𝞢𝞦';
+global.author = '𝗥  𝗢  𝗟  𝗘  𝗫  ୧⍤⃝💬';
 global.sessionName = 'session';
 global.prefa = ['!', '.'];
 global.sp = '✪';
@@ -49,7 +49,7 @@ global.autoswview = process.env.AUTO_STATUS_SEEN || "true",
 global.typemenu = 'v1' // 'v1' => 'v5'
 global.onlygroup = false // onlygroup
 global.onlypc = false
-global.AUTO_ABOUT = false
+global.AUTO_ABOUT = true
 global.limitawal = {
     premium: 'Infinity',
     free: 10
